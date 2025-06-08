@@ -12,7 +12,7 @@ var conditions = new[]
     new
     {
         ClusterCount = 3,
-        FilePath = "E:\\\\Work\\\\__temp\\\\School-Task\\\\ConsoleApp1\\\\ConsoleApp27\\\\demo_2025_27_Б\\\\demo_2025_27_Б.txt"
+        FilePath = "E:\\Work\\__temp\\School-Task\\EGE-Tasks\\ConsoleApp27\\demo_2025_27_Б\\demo_2025_27_Б.txt"
     },
 };
 
